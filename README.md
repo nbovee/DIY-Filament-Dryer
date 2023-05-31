@@ -1,5 +1,13 @@
 # DIY WiFi Enabled 3D Printing Filament Dry Box
 
+Goals: 
+- Drop in replacement for Sunlu V2.2 board
+- Screen display of TH and Setpoints
+- Sync'd control of multiple units on dash
+- Left button disable, right button initiate 4h dry at current setpoint
+
+---
+## Original Readme
 
 ## What is this project about?
 [![DIY WiFi Enabled Filament Dry Box](http://img.youtube.com/vi/txF2oQPIjb4/0.jpg)](http://www.youtube.com/watch?v=txF2oQPIjb4 "DIY WiFi Enabled Filament Dry Box")
